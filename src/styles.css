@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: underline;
+  color: royalblue;
+}
